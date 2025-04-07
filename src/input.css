@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* :root{
+
+} */
+
+.btn_auth{
+    @apply mx-1 cursor-pointer hover:bg-primary hover:text-white px-2 border-primary border-2 text-primary rounded-full
+}
+
+li {
+    @apply flex justify-end border-r-2 hover:border-primary mt-2 pr-1
+}
+li span{
+    @apply mr-2
+}
+
+ul{
+    @apply mt-8
+}
+
+.card{
+    @apply rounded-lg overflow-hidden bg-slate-100 col-span-3 md:col-span-1
+}
