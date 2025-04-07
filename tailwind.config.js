@@ -4,7 +4,7 @@
   theme: {
     extend: {
       colors : {
-        primary : "#AA32AA"
+        primary : "#AA32FF"
 
       }
     },

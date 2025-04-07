@@ -661,16 +661,16 @@ video {
   border-radius: 9999px;
   border-width: 2px;
   --tw-border-opacity: 1;
-  border-color: rgb(170 50 170 / var(--tw-border-opacity, 1));
+  border-color: rgb(170 50 255 / var(--tw-border-opacity, 1));
   padding-left: 0.5rem;
   padding-right: 0.5rem;
   --tw-text-opacity: 1;
-  color: rgb(170 50 170 / var(--tw-text-opacity, 1));
+  color: rgb(170 50 255 / var(--tw-text-opacity, 1));
 }
 
 .btn_auth:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(170 50 170 / var(--tw-bg-opacity, 1));
+  background-color: rgb(170 50 255 / var(--tw-bg-opacity, 1));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
@@ -685,7 +685,7 @@ li {
 
 li:hover {
   --tw-border-opacity: 1;
-  border-color: rgb(170 50 170 / var(--tw-border-opacity, 1));
+  border-color: rgb(170 50 255 / var(--tw-border-opacity, 1));
 }
 
 li span {
